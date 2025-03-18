@@ -116,6 +116,7 @@ public class BinaryToDecimal {
 - [Binary Number System](https://en.wikipedia.org/wiki/Binary_number)  
 - [Hexadecimal System](https://en.wikipedia.org/wiki/Hexadecimal)  
 - **Video Lesson Recording:** *[Link to be added]*  
-- **Reference Video Watched:** [Understanding Number Systems](https://www.youtube.com/watch?v=FFDMzbrEXaE)  
+- **Reference Video Watched:** [Understanding Number Systems](https://www.youtube.com/watch?v=FFDMzbrEXaE)
+- **Class Document:**[Numeral System Conversion](https://docs.zoom.us/doc/ExIH5yCZSGKzReOenMwE-g)
 
 🚀 **Great job today! Keep practicing, and see you on Day-03!** 💡🎉  

@@ -115,7 +115,7 @@ public class BinaryToDecimal {
 - [Java Documentation](https://docs.oracle.com/en/java/)  
 - [Binary Number System](https://en.wikipedia.org/wiki/Binary_number)  
 - [Hexadecimal System](https://en.wikipedia.org/wiki/Hexadecimal)  
-- [Video Lesson Recording] (https://us06web.zoom.us/rec/share/er3Bf0TCHIFxNS3ExaZSA8uEiphCg3onY1lEP_IgPHBvFb4sgb3T-CEkkgXIMgoU.CcipTLrrb58RkBLk)
+- [Video Lesson Recording](https://us06web.zoom.us/rec/share/er3Bf0TCHIFxNS3ExaZSA8uEiphCg3onY1lEP_IgPHBvFb4sgb3T-CEkkgXIMgoU.CcipTLrrb58RkBLk)
 - **Reference Video Watched:** [Understanding Number Systems](https://www.youtube.com/watch?v=FFDMzbrEXaE)
 - **Class Document:**[Numeral System Conversion](https://docs.zoom.us/doc/ExIH5yCZSGKzReOenMwE-g)
 
